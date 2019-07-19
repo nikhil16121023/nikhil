@@ -1,7 +1,7 @@
-num =float(input("enter a number:"))
-if num > 0:
-      print("Positive")
-elif num < 0:
-      print("Negative")
+n=float(input("enter a number:"))
+if n%2=0:
+      print("even")
+elif n%2!=0:
+      print("odd")
 else:
-      print("zero")
+      print("invalid")
